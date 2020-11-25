@@ -1,0 +1,25 @@
+{
+  "name": "slow-life",
+  "version": "1.0.0",
+  "description": "前端慢生活",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHooge/slow-life.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHooge/slow-life/issues"
+  },
+  "homepage": "https://github.com/MrHooge/slow-life#readme",
+  "dependencies": {
+    "vuepress": "^1.5.2",
+    "vuepress-theme-reco": "^1.5.4"
+  }
+}
