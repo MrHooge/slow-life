@@ -131,6 +131,6 @@ module.exports = [{
     link: "/cv/"
 }, {
     text: "Github",
-    link: "/cv/"
+    link: "https://github.com/MrHooge"
 },
 ]
